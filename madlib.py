@@ -1,7 +1,7 @@
 #Varibales
-color = input("Enter a color")
-plural_noun = input("Enter a plural noun")
-celebrity = input("Enter a celebrity")
+color = input("Enter a color: ")
+plural_noun = input("Enter a plural noun: ")
+celebrity = input("Enter a celebrity: ")
 
 #poem
 print("Roses are " + color)
